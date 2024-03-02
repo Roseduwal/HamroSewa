@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+body{
+    background: #EEF3F4;
+    font-family: 'Poppins', sans-serif;
+}
+.btn-blue{
+    background-color: #3A76BB;
+    color: white;
+}
+.link{
+    color:#3A76BB ;
+    text-decoration: none;
+}
+.space{
+    margin-left:223px;
+}
+footer{
+    padding: 0 !important;
+}
+.search{
+    background-color:#365FC5;
+    height:260px ;
+    width:1440px;
+}
+
+.review-profile-pic{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.carousel-control-prev{
+    left: 16px !important;
+    background-color: black !important;
+    height: 11%;
+    border-radius: 50%;
+    padding: 4px;
+    top: 50%;
+    width: unset;
+}
+
+.carousel-control-next{
+    right: 16px !important;
+    background-color: black !important;
+    height: 11%;
+    border-radius: 50%;
+    padding: 4px;
+    right: 16px;
+    top: 50%;
+    width: unset;
+}
+.row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.box{
+    border-right:solid black 2px;
+    padding-right: 226px;
+}
+.box2{
+    border-right:solid black 2px;
+    padding-right: 226px;
+}
+.vision{
+    background-color: #3A76BB;
+}
+.card{
+    height: 100%;
+}
+.card-img-top{
+    height:300px;
+    object-fit: cover;
+}
+.ratebutton{
+border-radius: 4px;
+background-color:#234DB5;
+color: white;
+padding: 8px 8px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+height:37 ;
+width: 74;
+
+}
+
+.margin{
+    border-bottom:solid black 2px;
+
+}
+.slider{
+    height:160px;
+    width: 800px;
+}
+.imageslider{
+    margin-left:100px ;
+
+}
+.picture{
+    margin-left:200px;
+}
+.side, .user{
+    height:354px;
+    width: 216px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border:1px solid #BDBDBD;
+}
+
+.services, .reviews {
+    background-color:#C8D8EB;
+    height: 50px;
+    width: 165px;
+    border:1px solid #626262;
+}
+.myprofile{
+    height: 50px;
+    width: 165px;
+    border:1px solid #626262;
+}
+.changeuser, .boxx{
+    border:1px solid #BDBDBD;
+    
+}
+.userphoto{
+    border-radius: 50%;
+    width:100px;
+    height:150px;
+    object-fit: cover;
+}
+.userdiv{
+    border-bottom:solid black 1px;
+
+}
+.divpassword{
+    background-color: #EEF3F4;
+}
+.cartcolumn{
+    height:240px;
+}
+.review{
+    height: 570px;
+    width: 686px;
+    padding:40px;
+    border:1px solid #BDBDBD;
+    
+}
+
+.input-group{
+    height: 165px;
+}
+.submit{
+    background-color: #3A76BB;
+    color: white;
+    width:200px;
+    padding: 8px 8px;
+     text-align: center;
+}
+
+.cartcolumn{
+    height: 204px;
+    width:334px;
+    margin-left: 54px;
+}
+.cartdown{
+    margin-left:-13px;
+    height: 300px;
+    width: 340px;
+    margin-top:65px;
+   
+}
+.wrapper{
+    height: 48px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:white;
+    border-radius: 12px;
+    border: 2px solid #234DB5 ;
+    
+}
+.wrapper span{
+    width: 100%;
+    text-align: center;
+    font-size:30px;
+    color:#234DB5;
+    
+}
+.wrapper span.num{
+    font-size: 30px;
+    
+}
+.items{
+    border:1px solid #BDBDBD;
+}
+.total{
+    border-bottom: 1px solid black;
+}
+.bill{
+    border:1px solid #BDBDBD;
+    height: 226px;
+    width:660px;
+
+}
+.BookD{
+    border:1px solid #BDBDBD;
+    height: 180px;
+    width:300px;
+    margin-left:208px;
+
+}
+.previous, .book{
+    background-color: #3A76BB;
+    height:45px;
+    width: 180px;
+}
+   
+    
+
+
+
